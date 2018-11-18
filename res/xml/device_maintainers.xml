@@ -85,7 +85,7 @@
     </PreferenceCategory>
 
 <!-- XIAOMI -->
-<!--    <PreferenceCategory
+   <PreferenceCategory
     android:title="@string/device_category_xiaomi_title">
 
 	    <Preference
@@ -93,19 +93,6 @@
             android:title="@string/device_xiaomi_mido"
             android:summary="@string/device_xiaomi_mido_summary"
 	    android:selectable="false" />
-
-	    <Preference
-            android:id="@+id/device_xiaomi_santoni"
-            android:title="@string/device_xiaomi_santoni"
-            android:summary="@string/device_xiaomi_santoni_summary"
-            android:selectable="false" />
-
-	    <Preference
-            android:id="@+id/device_xiaomi_redmi2s"
-            android:title="@string/device_xiaomi_redmi2"
-            android:summary="@string/device_xiaomi_redmi2_summary"
-            android:selectable="false" />
-
 
     </PreferenceCategory> -->
 
